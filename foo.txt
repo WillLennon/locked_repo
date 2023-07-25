@@ -1,1 +1,2 @@
 this is foo.txt
+the repo is locked for migration
